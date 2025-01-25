@@ -57,7 +57,7 @@ if not game.CoreGui:FindFirstChild("XScreen") then
 
     TestLabelEN.Font = Enum.Font.SourceSansBold
 
-    TestLabelEN.Text = "English : Script is updating"
+    TestLabelEN.Text = ""
 
     TestLabelEN.TextColor3 = Color3.fromRGB(255, 255, 255)
 
@@ -77,7 +77,7 @@ if not game.CoreGui:FindFirstChild("XScreen") then
 
     TestLabelVN.Font = Enum.Font.SourceSansBold
 
-    TestLabelVN.Text = "VN : Script đang cập nhập"
+    TestLabelVN.Text = ""
 
     TestLabelVN.TextColor3 = Color3.fromRGB(255, 255, 255)
 
