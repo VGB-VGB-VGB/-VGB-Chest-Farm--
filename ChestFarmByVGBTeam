@@ -3,7 +3,7 @@ local VirtualInputManager = game:GetService("VirtualInputManager")
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/VanThanhLuxucu/refs/heads/main/main.txt"))()
  
 local Hub = Material.Load({
-	Title = "VGB Chest Farm ( https://discord.gg/98ww9CJ5fQ ) ",
+	Title = "VGB Chest Farm ( https://discord.gg/wd6preaR2F ) ",
 	Style = 3,
 	SizeX = 375,
 	SizeY = 80,
