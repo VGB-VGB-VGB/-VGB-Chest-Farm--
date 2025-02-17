@@ -221,7 +221,7 @@ if not game.CoreGui:FindFirstChild("XScreen") then
 
     XToggle.MouseButton1Click:Connect(function()
 
-        setclipboard("https://discord.gg/98ww9CJ5fQ")
+        setclipboard("https://discord.gg/wd6preaR2F")
 
     end)
 
